@@ -1,0 +1,288 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Karla:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,200;1,300;1,400;1,500;1,600;1,700;1,800&display=swap');
+.ric {
+
+    width: 550px;
+
+    margin: 30px auto;
+
+    display: grid;
+
+    grid-template-rows: 200px auto;
+
+    grid-template-areas:
+
+        "ric-head ric-img" "ric-post ric-post";
+
+}
+
+#hermes .ric {
+
+    --cor-grupo: #83A892;
+    --rgbacolor: rgba(131, 168, 146, 0.6)
+}
+
+#atlanti .ric {
+
+    --cor-grupo: #80d2f2;
+}
+
+#banshee .ric {
+
+    --cor-grupo: #fb31d5;
+}
+
+#bruxo .ric {
+
+    --cor-grupo: #7d604f;
+}
+
+#caçador .ric {
+
+    --cor-grupo: #3eb595;
+}
+
+#demônio .ric {
+
+    --cor-grupo: #a3c0a2;
+
+}
+
+#dimon .ric {
+
+    --cor-grupo: #9acd32;
+}
+
+
+
+#djinn .ric {
+
+    --cor-grupo: #f9db4a;
+}
+
+#fada .ric {
+
+    --cor-grupo: #ff8097;
+}
+
+#feiticeiro .ric {
+
+    --cor-grupo: #5b2491;
+}
+
+#jumper .ric {
+
+    --cor-grupo: #79844d;
+}
+
+#kiang-shi .ric {
+
+    --cor-grupo: #d9bea7;
+}
+
+#lobisomem .ric {
+
+    --cor-grupo: #ff8d00;
+}
+
+#metamorfo .ric {
+
+    --cor-grupo: #a66eb6;
+}
+
+#oneiro .ric {
+
+    --cor-grupo: #ae4b2a;
+}
+
+
+
+#vampiro .ric {
+
+    --cor-grupo: #821718;
+}
+
+#youkai .ric {
+
+    --cor-grupo: #c76969;
+}
+
+.ric-header {
+
+    grid-area: ric-head;
+
+    display: grid;
+
+    background: var(--fundo2);
+    
+    color: #fff;
+
+    font-size: 14px;
+
+    width: 200px;
+
+    clip-path: polygon(0 0, 100% 0, 65% 100%, 0% 100%);
+
+    grid-template-areas:
+
+        "com" "onde" "quando";
+
+}
+
+.ric-quando {
+
+    grid-area: quando;
+
+    font-family: 'Karla', sans-serif;
+    
+    font-size: 10px;
+
+    text-transform: uppercase;
+
+    background: var(--cor-grupo);
+
+    letter-spacing: 1px;
+
+    color: #e1e1e1;
+
+    padding: 5px;
+
+    text-align: center;
+
+    margin-bottom: 90px;
+
+}
+
+.ric-onde {
+
+    grid-area: onde;
+
+    font-size: 10px;
+
+    font-family: 'Karla', sans-serif;
+    
+    text-transform: uppercase;
+
+    background: var(--cor-grupo);
+
+    letter-spacing: 1px;
+
+    color: #e1e1e1;
+
+    padding: 5px;
+
+    text-align: center;
+
+    margin-bottom: 5px;
+
+}
+
+.ric-com {
+
+    grid-area: com;
+
+    font-size: 10px;
+
+    font-family: 'Karla', sans-serif;
+    
+    text-transform: uppercase;
+
+    background: var(--cor-grupo);
+
+    letter-spacing: 1px;
+
+    color: #e1e1e1;
+
+    padding: 5px;
+
+    text-align: center;
+
+    margin-bottom: 5px;
+
+    margin-top: 30px;
+
+}
+
+.ric-img {
+
+    grid-area: ric-img;
+
+    width: 440px;
+
+    background-image: var(--imagem);
+
+    margin-left: -75px;
+
+    background-color: var(--cor-grupo);
+
+    background-size: cover;
+
+    background-blend-mode: multiply;
+
+    background-repeat: no-repeat;
+
+}
+
+.ric-img:hover{ 
+
+    background-image: var(--imagem2);
+}
+
+.ric-img h2 {
+
+    font-size: 8px;
+
+    text-transform: uppercase;
+
+
+    font-family: 'Karla', sans-serif;
+
+    font-weight: 400;
+
+    background: #00000057;
+
+    letter-spacing: 2px;
+
+    color: #e1e1e1;
+
+    padding: 10px 0px;
+
+    text-align: center;
+    
+    margin-top: 0px;
+
+}
+
+.ricpost {
+
+    grid-area: ric-post;
+
+    background-color:var(--fundo3);
+
+    line-height: 14px;
+
+    font-family: 'montserrat';
+
+    font-size: 12px;
+
+    padding: 35px 70px;
+
+    color: var(--ctexto1);
+
+    text-align: justify;
+
+    border: 15px double;
+
+    border-color: var(--cor-grupo);
+
+}
+
+.ricpost e {
+    font-weight: 800;
+    color: var(--cor-grupo);
+}
+
+.ricpost i {
+    color: var(--cor-grupo);
+}
+
