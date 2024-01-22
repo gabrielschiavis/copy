@@ -118,7 +118,44 @@
     #youkai .luh {
         --cor-grupo: #c76969;
     }
-
+    #aclis .luh { --cor-grupo: #6b8e23; }
+    #afrodite .luh { --cor-grupo: #fd87b3; }
+    #anemoi .luh { --cor-grupo: #6baea0; }
+    #apolo .luh { --cor-grupo: #e8c361; }
+    #ares .luh { --cor-grupo: #e14e3e; }
+    #artemis .luh { --cor-grupo: #7F8A92; }
+    #atena .luh { --cor-grupo: #E56627; }
+    #asclepio .luh { --cor-grupo: #1F8559; }
+    #deimoss .luh { --cor-grupo: #3e3e3e; }
+    #demeter .luh { --cor-grupo: #65AC55; }
+    #dionisio .luh { --cor-grupo: #7d0c43; }
+    #enio .luh { --cor-grupo: #e77266; }
+    #eris .luh { --cor-grupo: #aa6f73; }
+    #eros .luh { --cor-grupo: #cc4e7d; }
+    #hades .luh { --cor-grupo: #555f61; }
+    #helio .luh { --cor-grupo: #C1A96D; }
+    #hecate .luh { --cor-grupo: #abb1cf; }
+    #hefesto .luh { --cor-grupo: #683609; }
+    #heracles .luh { --cor-grupo: #b8af47; }
+    #hermes .luh { --cor-grupo: #82bdc0; }
+    #hipnos .luh { --cor-grupo: #744A7D; }
+    #iris .luh { --cor-grupo: #fab1a0; }
+    #kairos .luh { --cor-grupo: #61639F; }
+    #melinoe .luh { --cor-grupo: #61585F; }
+    #mnemosine .luh { --cor-grupo: #8a2be2; }
+    #momo .luh { --cor-grupo: #A06DA4; }
+    #nemesis .luh { --cor-grupo: #b5130d; }
+    #nice .luh { --cor-grupo: #D4AF37; }
+    #oneiros .luh { --cor-grupo: #503789; }
+    #persephone .luh { --cor-grupo: #a45b72; }
+    #phobos .luh { --cor-grupo: #424242; }
+    #ponos .luh { --cor-grupo: #987043; }
+    #poseidon .luh { --cor-grupo: #4276ab; }
+    #quione .luh { --cor-grupo: #abcee0; }
+    #sanco .luh { --cor-grupo: #668AA4; }
+    #selene .luh { --cor-grupo: #988E9B; }
+    #tanatos .luh { --cor-grupo: #444443; }
+    #zeus .luh { --cor-grupo: #536781; }
 
     .luh-container {
         width: var(--width);
