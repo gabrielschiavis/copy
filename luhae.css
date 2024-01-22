@@ -28,10 +28,10 @@
     --width: 750px;
     --image-size: 90px;
     --border: #000;
-    --accent: #101a13;
-    --text-color: #dadada;
+    --accent: #f2f2f2;
+    --text-color: #000;
     --letter-color: var(--cor-grupo);
-    --sub-color: #fff;
+    --sub-color: #000;
     --anjo: #0f698c;
     --atlanti: #80d2f2;
     --banshee: #fb31d5;
