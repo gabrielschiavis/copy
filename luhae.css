@@ -27,11 +27,11 @@
 .luh {
     --width: 750px;
     --image-size: 90px;
-    --border: #000;
+    --border: #c2c9d6;
     --accent: #f8f9fc;
-    --text-color: #000;
+    --text-color: #1d1e20;
     --letter-color: var(--cor-grupo);
-    --sub-color: #000;
+    --sub-color: #1d1e20;
     --anjo: #0f698c;
     --atlanti: #80d2f2;
     --banshee: #fb31d5;
