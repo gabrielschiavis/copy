@@ -1,5 +1,42 @@
  .rafo { 
-    --dioniso: var(--dionisio-baco);
+    --aclis: #6b8e23;
+    --afrodite: #fd87b3;
+    --anemoi: #6baea0;
+    --apolo: #e8c361;
+    --ares: #e14e3e;
+    --artemis: #7F8A92;
+    --atena: #E56627;
+    --asclepio: #1F8559;
+    --deimoss: #3e3e3e;
+    --demeter: #65AC55;
+    --dioniso: #7d0c43;
+    --enio: #e77266;
+    --eris: #aa6f73;
+    --eros: #cc4e7d;
+    --hades: #555f61;
+    --helio: #C1A96D;
+    --hecate: #abb1cf;
+    --hefesto: #683609;
+    --heracles: #b8af47;
+    --hermes: #82bdc0;
+    --hipnos: #744A7D;
+    --iris: #fab1a0;
+    --kairos: #61639F;
+    --melinoe: #61585F;
+    --mnemosine: #8a2be2;
+    --momo: #A06DA4;
+    --nemesis: #b5130d;
+    --nice: #D4AF37;
+    --oneiros: #503789;
+    --persephone: #a45b72;
+    --phobos: #424242;
+    --ponos: #987043;
+    --poseidon: #4276ab;
+    --quione: #abcee0;
+    --sanco: #668AA4;
+    --selene: #988E9B;
+    --tanatos: #444443;
+    --zeus: #536781;
 }
    
     #dioniso .rafo { 
@@ -344,6 +381,9 @@
      font-family:'Montserrat';
      font-size:12.5px; 
      font-weight:800;} 
+
+
+
 
    .gabu-say i{
      color: var(--cor-grupo, #fff);
