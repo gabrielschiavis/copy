@@ -224,6 +224,8 @@
         color: var(--text-color);
         font: 11px/185% 'Open Sans', sans-serif;
         letter-spacing: 1px;
+        line-height: 14px;
+        withe-space: pre-line;
         text-align: justify;
         position: relative;
         z-index: 1;
