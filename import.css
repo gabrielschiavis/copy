@@ -341,6 +341,7 @@
     --cor-grupo-rgba: var(--biotico-rgba);
     --cor-grupo-rgba1: var(--biotico-rgba1);
     --cor-grupo-rgba2: var(--biotico-rgba2);
+    --cor-grupo-rgba3: var(--biotico-rgba3); 
     --cor-grupo-rgba4: var(--biotico-rgba4);
     --cor-grupo-rgba5: var(--biotico-rgba5);
     --cor-grupo-rgba6: var(--biotico-rgba6);
@@ -352,6 +353,8 @@
 #cacador {
     --cor-grupo: var(--cacador); 
     --cor-grupo-rgba: var(--cacador-rgba);
+    --cor-grupo-rgba1: var(--cacador-rgba1);
+    --cor-grupo-rgba2: var(--cacador-rgba2);
     --cor-grupo-rgba3: var(--cacador-rgba3);
     --cor-grupo-rgba4: var(--cacador-rgba4);
     --cor-grupo-rgba5: var(--cacador-rgba5);
@@ -364,6 +367,8 @@
 #ciborgue {
 --cor-grupo: var(--ciborgue);
 --cor-grupo-rgba: var(--ciborgue-rgba);
+--cor-grupo-rgba1: var(--ciborgue-rgba1);
+--cor-grupo-rgba2: var(--ciborgue-rgba2);
 --cor-grupo-rgba3: var(--ciborgue-rgba3);
 --cor-grupo-rgba4: var(--ciborgue-rgba4);
 --cor-grupo-rgba5: var(--ciborgue-rgba5);
@@ -372,11 +377,13 @@
 --cor-grupo-rgba8: var(--ciborgue-rgba8);
 --cor-grupo-rgba9: var(--ciborgue-rgba9);
 }
+
 #feiticeiro {
     --cor-grupo: var(--feiticeiro); 
     --cor-grupo-rgba: var(--feiticeiro-rgba);
     --cor-grupo-rgba1: var(--feiticeiro-rgba1);
     --cor-grupo-rgba2: var(--feiticeiro-rgba2);
+    --cor-grupo-rgba3: var(--feiticeiro-rgba3);
     --cor-grupo-rgba4: var(--feiticeiro-rgba4);
     --cor-grupo-rgba5: var(--feiticeiro-rgba5);
     --cor-grupo-rgba6: var(--feiticeiro-rgba6);
@@ -388,6 +395,8 @@
 #gorgona {
 --cor-grupo: var(--gorgona);
 --cor-grupo-rgba: var(--gorgona-rgba);
+--cor-grupo-rgba1: var(--gorgona-rgba1);
+--cor-grupo-rgba2: var(--gorgona-rgba2);
 --cor-grupo-rgba3: var(--gorgona-rgba3);
 --cor-grupo-rgba4: var(--gorgona-rgba4);
 --cor-grupo-rgba5: var(--gorgona-rgba5);
@@ -402,6 +411,7 @@
     --cor-grupo-rgba: var(--licantropo-rgba);
     --cor-grupo-rgba1: var(--licantropo-rgba1);
     --cor-grupo-rgba2: var(--licantropo-rgba2);
+    --cor-grupo-rgba3: var(--licantropo-rgba3);
     --cor-grupo-rgba4: var(--licantropo-rgba4);
     --cor-grupo-rgba5: var(--licantropo-rgba5);
     --cor-grupo-rgba6: var(--licantropo-rgba6);
@@ -413,6 +423,8 @@
 #metamorfo {
 --cor-grupo: var(--metamorfo);
 --cor-grupo-rgba: var(--metamorfo-rgba);
+--cor-grupo-rgba1: var(--metamorfo-rgba);
+--cor-grupo-rgba2: var(--metamorfo-rgba2);
 --cor-grupo-rgba3: var(--metamorfo-rgba3);
 --cor-grupo-rgba4: var(--metamorfo-rgba4);
 --cor-grupo-rgba5: var(--metamorfo-rgba5);
@@ -425,6 +437,8 @@
 #sereiano {
 --cor-grupo: var(--sereiano);
 --cor-grupo-rgba: var(--sereiano-rgba);
+--cor-grupo-rgba1: var(--sereiano-rgba1);
+--cor-grupo-rgba2: var(--sereiano-rgba2);
 --cor-grupo-rgba3: var(--sereiano-rgba3);
 --cor-grupo-rgba4: var(--sereiano-rgba4);
 --cor-grupo-rgba5: var(--sereiano-rgba5);
@@ -439,6 +453,7 @@
     --cor-grupo-rgba: var(--vampiro-rgba);
     --cor-grupo-rgba1: var(--vampiro-rgba1);
     --cor-grupo-rgba2: var(--vampiro-rgba2);
+    --cor-grupo-rgba3: var(--vampiro-rgba3);
     --cor-grupo-rgba4: var(--vampiro-rgba4);
     --cor-grupo-rgba5: var(--vampiro-rgba5);
     --cor-grupo-rgba6: var(--vampiro-rgba6);
