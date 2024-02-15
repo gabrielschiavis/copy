@@ -78,7 +78,6 @@
 --lobisomem-rgba: rgba(255, 141, 0, 0.6);
 --metamorfo-rgba: rgba(166, 110, 182, 0.6);
 --oneiro-rgba: rgba(174, 75, 42, 0.6);
---vampiro-rgba: rgba(130, 23, 24, 0.6);
 --youkai-rgba: rgba(199, 105, 105, 0.6);
 --aclis-rgba: rgba(107, 142, 35, 0.6);
 --afrodite-rgba: rgba(253, 135, 179, 0.6);
@@ -127,6 +126,7 @@
 --metamorfo-rgba: rgba(199, 105, 105, 0.6);
 --sereiano-rgba: rgba(128, 210, 242, 0.6);
 --vampiro-rgba: rgba(130, 23, 24, 0.6);
+
 --anjo-rgba2: rgba(15, 105, 140, 0.2);
 --atlanti-rgba2: rgba(128, 210, 242, 0.2);
 --banshee-rgba2: rgba(251, 49, 213, 0.2);
@@ -142,7 +142,6 @@
 --lobisomem-rgba2: rgba(255, 141, 0, 0.2);
 --metamorfo-rgba2: rgba(166, 110, 182, 0.2);
 --oneiro-rgba2: rgba(174, 75, 42, 0.2);
---vampiro-rgba2: rgba(130, 23, 24, 0.2);
 --youkai-rgba2: rgba(199, 105, 105, 0.2);
 --aclis-rgba2: rgba(107, 142, 35, 0.2);
 --afrodite-rgba2: rgba(253, 135, 179, 0.2);
@@ -192,6 +191,122 @@
 --sereiano-rgba2: rgba(128, 210, 242, 0.2);
 --vampiro-rgba2: rgba(130, 23, 24, 0.2);
 
+--anjo-rgba3: rgba(15, 105, 140, 0.3);
+--atlanti-rgba3: rgba(128, 210, 242, 0.3);
+--banshee-rgba3: rgba(251, 49, 213, 0.3);
+--bruxo-rgba3: rgba(125, 96, 79, 0.3);
+--cacador-rgba3: rgba(62, 181, 149, 0.3);
+--demonio-rgba3: rgba(163, 192, 162, 0.3);
+--dimon-rgba3: rgba(154, 205, 50, 0.3);
+--djinn-rgba3: rgba(249, 219, 74, 0.3);
+--fada-rgba3: rgba(255, 128, 151, 0.3);
+--feiticeiro-rgba3: rgba(91, 36, 145, 0.3);
+--jumper-rgba3: rgba(121, 132, 77, 0.3);
+--kiang-shi-rgba3: rgba(217, 190, 167, 0.3);
+--lobisomem-rgba3: rgba(255, 141, 0, 0.3);
+--metamorfo-rgba3: rgba(166, 110, 182, 0.3);
+--oneiro-rgba3: rgba(174, 75, 42, 0.3);
+--vampiro-rgba3: rgba(130, 23, 24, 0.3);
+--youkai-rgba3: rgba(199, 105, 105, 0.3);
+--aclis-rgba3: rgba(107, 142, 35, 0.3);
+--afrodite-rgba3: rgba(253, 135, 179, 0.3);
+--anemoi-rgba3: rgba(107, 174, 160, 0.3);
+--apolo-rgba3: rgba(232, 195, 97, 0.3);
+--ares-rgba3: rgba(225, 78, 62, 0.3);
+--artemis-rgba3: rgba(127, 138, 146, 0.3);
+--atena-rgba3: rgba(229, 102, 39, 0.3);
+--asclepio-rgba3: rgba(31, 133, 89, 0.3);
+--deimoss-rgba3: rgba(62, 62, 62, 0.3);
+--demeter-rgba3: rgba(101, 172, 85, 0.3);
+--dionisio-rgba3: rgba(125, 12, 67, 0.3);
+--enio-rgba3: rgba(231, 114, 102, 0.3);
+--eris-rgba3: rgba(170, 111, 115, 0.3);
+--eros-rgba3: rgba(204, 78, 125, 0.3);
+--hades-rgba3: rgba(85, 95, 97, 0.3);
+--helio-rgba3: rgba(193, 169, 109, 0.3);
+--hecate-rgba3: rgba(171, 177, 207, 0.3);
+--hefesto-rgba3: rgba(104, 54, 9, 0.3);
+--heracles-rgba3: rgba(184, 175, 71, 0.3);
+--hermes-rgba3: rgba(130, 189, 192, 0.3);
+--hipnos-rgba3: rgba(116, 74, 125, 0.3);
+--iris-rgba3: rgba(250, 177, 160, 0.3);
+--kairos-rgba3: rgba(97, 99, 159, 0.3);
+--melinoe-rgba3: rgba(97, 88, 95, 0.3);
+--mnemosine-rgba3: rgba(138, 43, 226, 0.3);
+--momo-rgba3: rgba(160, 109, 164, 0.3);
+--nemesis-rgba3: rgba(181, 19, 13, 0.3);
+--nice-rgba3: rgba(212, 175, 55, 0.3);
+--oneiros-rgba3: rgba(80, 55, 137, 0.3);
+--persephone-rgba3: rgba(164, 91, 114, 0.3);
+--phobos-rgba3: rgba(66, 66, 66, 0.3);
+--ponos-rgba3: rgba(152, 112, 67, 0.3);
+--poseidon-rgba3: rgba(66, 118, 171, 0.3);
+--quione-rgba3: rgba(171, 206, 224, 0.3);
+--sanco-rgba3: rgba(102, 138, 164, 0.3);
+--selene-rgba3: rgba(152, 142, 155, 0.3);
+--tanatos-rgba3: rgba(68, 68, 67, 0.3);
+--zeus-rgba3: rgba(83, 103, 129, 0.3);
+--biotico-rgba3: rgba(49, 99, 62, 0.3);
+
+      --biotico-rgba4: rgba(49, 99, 62, 0.4);
+--cacador-rgba4: rgba(62, 181, 149, 0.4);
+--ciborgue-rgba4: rgba(121, 161, 247, 0.4);
+--feiticeiro-rgba4: rgba(91, 36, 145, 0.4);
+--gorgona-rgba4: rgba(255, 128, 151, 0.4);
+--licantropo-rgba4: rgba(255, 141, 0, 0.4);
+--metamorfo-rgba4: rgba(199, 105, 105, 0.4);
+--sereiano-rgba4: rgba(128, 210, 242, 0.4);
+--vampiro-rgba4: rgba(130, 23, 24, 0.4);
+
+--biotico-rgba5: rgba(49, 99, 62, 0.5);
+--cacador-rgba5: rgba(62, 181, 149, 0.5);
+--ciborgue-rgba5: rgba(121, 161, 247, 0.5);
+--feiticeiro-rgba5: rgba(91, 36, 145, 0.5);
+--gorgona-rgba5: rgba(255, 128, 151, 0.5);
+--licantropo-rgba5: rgba(255, 141, 0, 0.5);
+--metamorfo-rgba5: rgba(199, 105, 105, 0.5);
+--sereiano-rgba5: rgba(128, 210, 242, 0.5);
+--vampiro-rgba5: rgba(130, 23, 24, 0.5);
+
+--biotico-rgba6: rgba(49, 99, 62, 0.6);
+--cacador-rgba6: rgba(62, 181, 149, 0.6);
+--ciborgue-rgba6: rgba(121, 161, 247, 0.6);
+--feiticeiro-rgba6: rgba(91, 36, 145, 0.6);
+--gorgona-rgba6: rgba(255, 128, 151, 0.6);
+--licantropo-rgba6: rgba(255, 141, 0, 0.6);
+--metamorfo-rgba6: rgba(199, 105, 105, 0.6);
+--sereiano-rgba6: rgba(128, 210, 242, 0.6);
+--vampiro-rgba6: rgba(130, 23, 24, 0.6);
+
+--biotico-rgba7: rgba(49, 99, 62, 0.7);
+--cacador-rgba7: rgba(62, 181, 149, 0.7);
+--ciborgue-rgba7: rgba(121, 161, 247, 0.7);
+--feiticeiro-rgba7: rgba(91, 36, 145, 0.7);
+--gorgona-rgba7: rgba(255, 128, 151, 0.7);
+--licantropo-rgba7: rgba(255, 141, 0, 0.7);
+--metamorfo-rgba7: rgba(199, 105, 105, 0.7);
+--sereiano-rgba7: rgba(128, 210, 242, 0.7);
+--vampiro-rgba7: rgba(130, 23, 24, 0.7);
+
+--biotico-rgba8: rgba(49, 99, 62, 0.8);
+--cacador-rgba8: rgba(62, 181, 149, 0.8);
+--ciborgue-rgba8: rgba(121, 161, 247, 0.8);
+--feiticeiro-rgba8: rgba(91, 36, 145, 0.8);
+--gorgona-rgba8: rgba(255, 128, 151, 0.8);
+--licantropo-rgba8: rgba(255, 141, 0, 0.8);
+--metamorfo-rgba8: rgba(199, 105, 105, 0.8);
+--sereiano-rgba8: rgba(128, 210, 242, 0.8);
+--vampiro-rgba8: rgba(130, 23, 24, 0.8);
+
+--biotico-rgba9: rgba(49, 99, 62, 0.9);
+--cacador-rgba9: rgba(62, 181, 149, 0.9);
+--ciborgue-rgba9: rgba(121, 161, 247, 0.9);
+--feiticeiro-rgba9: rgba(91, 36, 145, 0.9);
+--gorgona-rgba9: rgba(255, 128, 151, 0.9);
+--licantropo-rgba9: rgba(255, 141, 0, 0.9);
+--metamorfo-rgba9: rgba(199, 105, 105, 0.9);
+--sereiano-rgba9: rgba(128, 210, 242, 0.9);
+--vampiro-rgba9: rgba(130, 23, 24, 0.9);
 }
 
 
