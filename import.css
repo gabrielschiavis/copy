@@ -16,6 +16,7 @@
     --oneiro: #ae4b2a;
     --vampiro: #821718;
     --youkai: #c76969;
+    --parademonio: #A3C0A2;
 
 --anjo-rgba: rgba(15, 105, 140, 0.6);
 --atlanti-rgba: rgba(128, 210, 242, 0.6);
@@ -32,6 +33,8 @@
 --metamorfo-rgba: rgba(166, 110, 182, 0.6);
 --oneiro-rgba: rgba(174, 75, 42, 0.6);
 --youkai-rgba: rgba(199, 105, 105, 0.6);
+--parademonio-rgba: rgba(163, 192, 162, 0.6);
+
 
 --anjo-rgba2: rgba(15, 105, 140, 0.2);
 --atlanti-rgba2: rgba(128, 210, 242, 0.2);
@@ -330,7 +333,18 @@
 --metamorfo-rgba9: rgba(199, 105, 105, 0.9);
 --sereiano-rgba9: rgba(128, 210, 242, 0.9);
 --vampiro-rgba9: rgba(130, 23, 24, 0.9);
-}
+
+
+--parademonio-rgba1: rgba(163, 192, 162, 0.1);
+--parademonio-rgba2: rgba(163, 192, 162, 0.2);
+--parademonio-rgba3: rgba(163, 192, 162, 0.3);
+--parademonio-rgba4: rgba(163, 192, 162, 0.4);
+--parademonio-rgba5: rgba(163, 192, 162, 0.5);
+--parademonio-rgba6: rgba(163, 192, 162, 0.6);
+--parademonio-rgba7: rgba(163, 192, 162, 0.7);
+--parademonio-rgba8: rgba(163, 192, 162, 0.8);
+--parademonio-rgba9: rgba(163, 192, 162, 0.9);}
+
 
 #biotico {
     --cor-grupo: var(--biotico); 
@@ -456,6 +470,18 @@
     --cor-grupo-rgba7: var(--vampiro-rgba7);
     --cor-grupo-rgba8: var(--vampiro-rgba8);
     --cor-grupo-rgba9: var(--vampiro-rgba9);
+}
+
+#parademonio {
+--cor-grupo-rgba1: rgba(163, 192, 162, 0.1);
+--cor-grupo-rgba2: rgba(163, 192, 162, 0.2);
+--cor-grupo-rgba3: rgba(163, 192, 162, 0.3);
+--cor-grupo-rgba4: rgba(163, 192, 162, 0.4);
+--cor-grupo-rgba5: rgba(163, 192, 162, 0.5);
+--cor-grupo-rgba6: rgba(163, 192, 162, 0.6);
+--cor-grupo-rgba7: rgba(163, 192, 162, 0.7);
+--cor-grupo-rgba8: rgba(163, 192, 162, 0.8);
+--cor-grupo-rgba9: rgba(163, 192, 162, 0.9);
 }
 
 cc {
