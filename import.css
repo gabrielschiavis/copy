@@ -474,6 +474,7 @@
 
 #parademonio {
 --cor-grupo: var(--parademonio);
+--cor-grupo-rgba: rgba(163, 192, 162, 0.6);
 --cor-grupo-rgba1: rgba(163, 192, 162, 0.1);
 --cor-grupo-rgba2: rgba(163, 192, 162, 0.2);
 --cor-grupo-rgba3: rgba(163, 192, 162, 0.3);
@@ -508,6 +509,10 @@ lc {
 mt {
     color: var(--metamorfo);
     }
+
+pn {
+    color: var(--pandemonio);
+}
 
 
  sr {
