@@ -343,7 +343,504 @@
 --parademonio-rgba6: rgba(163, 192, 162, 0.6);
 --parademonio-rgba7: rgba(163, 192, 162, 0.7);
 --parademonio-rgba8: rgba(163, 192, 162, 0.8);
---parademonio-rgba9: rgba(163, 192, 162, 0.9);}
+--parademonio-rgba9: rgba(163, 192, 162, 0.9);
+
+
+/*Divine Ground*/
+--deuses-dg: #b8a944;
+--estagiarios-dg: #bd2864;
+--legados-dg: #1f3ac3;
+--indefinidos-dg: #6e6e6e;
+--afrodite-dg: #fa69c5;
+--apolo-dg: #e8d243;
+--ares-dg: #db1414;
+--aristeu-dg: #fcb53a;
+--astraeus-dg: #7644d8;
+--atena-dg: #8d8b55;
+--belona-dg: #9c0000;
+--demeter-dg: #37bb44;
+--despina-dg: #324f66;
+--dionisio-dg: #910980;
+--eris-dg: #f32bdc;
+--eros-dg: #d65e76;
+--eter-dg: #1f4b81;
+--hades-dg: #504283;
+--hecate-dg: #412a8c;
+--hefesto-dg: #b8410e;
+--helio-dg: #fcb959;
+--heracles-dg: #d57a34;
+--hermes-dg: #83a892;
+--hipnos-dg: #8f548a;
+--jano-dg: #db341a;
+--kairos-dg: #137629;
+--melinoe-dg: #a265ff;
+--nemesis-dg: #872020;
+--nice-dg: #c59f24;
+--pandora-dg: #89003d;
+--persefone-dg: #d91939;
+--poseidon-dg: #016b64;
+--psique-dg: #509aad;
+--tanatos-dg: #664141;
+--zeus-dg: #00aeff;
+--mortos-dg: #5e4d38;
+--iris-dg: #f5a4a4;
+--artemis-dg: #8ea4b5;
+--orfeu-dg: #4586d7;
+--selene-dg: #8d8da5;
+--harmonia-dg: #D18D18;
+
+--deuses-dg-rgba: rgba(184, 169, 68, 0.6);
+--estagiarios-dg-rgba: rgba(189, 40, 100, 0.6);
+--legados-dg-rgba: rgba(31, 58, 195, 0.6);
+--indefinidos-dg-rgba: rgba(110, 110, 110, 0.6);
+--afrodite-dg-rgba: rgba(250, 105, 197, 0.6);
+--apolo-dg-rgba: rgba(232, 210, 67, 0.6);
+--ares-dg-rgba: rgba(219, 20, 20, 0.6);
+--aristeu-dg-rgba: rgba(252, 181, 58, 0.6);
+--astraeus-dg-rgba: rgba(118, 68, 216, 0.6);
+--atena-dg-rgba: rgba(141, 139, 85, 0.6);
+--belona-dg-rgba: rgba(156, 0, 0, 0.6);
+--demeter-dg-rgba: rgba(55, 187, 68, 0.6);
+--despina-dg-rgba: rgba(50, 79, 102, 0.6);
+--dionisio-dg-rgba: rgba(145, 9, 128, 0.6);
+--eris-dg-rgba: rgba(243, 43, 220, 0.6);
+--eros-dg-rgba: rgba(214, 94, 118, 0.6);
+--eter-dg-rgba: rgba(31, 75, 129, 0.6);
+--hades-dg-rgba: rgba(80, 66, 131, 0.6);
+--hecate-dg-rgba: rgba(65, 42, 140, 0.6);
+--hefesto-dg-rgba: rgba(184, 65, 14, 0.6);
+--helio-dg-rgba: rgba(252, 185, 89, 0.6);
+--heracles-dg-rgba: rgba(213, 122, 52, 0.6);
+--hermes-dg-rgba: rgba(131, 168, 146, 0.6);
+--hipnos-dg-rgba: rgba(143, 84, 138, 0.6);
+--jano-dg-rgba: rgba(219, 52, 26, 0.6);
+--kairos-dg-rgba: rgba(19, 118, 41, 0.6);
+--melinoe-dg-rgba: rgba(162, 101, 255, 0.6);
+--nemesis-dg-rgba: rgba(135, 32, 32, 0.6);
+--nice-dg-rgba: rgba(197, 159, 36, 0.6);
+--pandora-dg-rgba: rgba(137, 0, 61, 0.6);
+--persefone-dg-rgba: rgba(217, 25, 57, 0.6);
+--poseidon-dg-rgba: rgba(1, 107, 100, 0.6);
+--psique-dg-rgba: rgba(80, 154, 173, 0.6);
+--tanatos-dg-rgba: rgba(102, 65, 65, 0.6);
+--zeus-dg-rgba: rgba(0, 174, 255, 0.6);
+--mortos-dg-rgba: rgba(94, 77, 56, 0.6);
+--iris-dg-rgba: rgba(245, 164, 164, 0.6);
+--artemis-dg-rgba: rgba(142, 164, 181, 0.6);
+--orfeu-dg-rgba: rgba(69, 134, 215, 0.6);
+--selene-dg-rgba: rgba(141, 141, 165, 0.6);
+--harmonia-dg-rgba: rgba(209, 141, 24, 0.6);
+
+--deuses-dg-rgba1: rgba(184, 169, 68, 0.1);
+--deuses-dg-rgba2: rgba(184, 169, 68, 0.2);
+--deuses-dg-rgba3: rgba(184, 169, 68, 0.3);
+--deuses-dg-rgba4: rgba(184, 169, 68, 0.4);
+--deuses-dg-rgba5: rgba(184, 169, 68, 0.5);
+--deuses-dg-rgba6: rgba(184, 169, 68, 0.6);
+--deuses-dg-rgba7: rgba(184, 169, 68, 0.7);
+--deuses-dg-rgba8: rgba(184, 169, 68, 0.8);
+--deuses-dg-rgba9: rgba(184, 169, 68, 0.9);
+
+--estagiarios-dg-rgba1: rgba(189, 40, 100, 0.1);
+--estagiarios-dg-rgba2: rgba(189, 40, 100, 0.2);
+--estagiarios-dg-rgba3: rgba(189, 40, 100, 0.3);
+--estagiarios-dg-rgba4: rgba(189, 40, 100, 0.4);
+--estagiarios-dg-rgba5: rgba(189, 40, 100, 0.5);
+--estagiarios-dg-rgba6: rgba(189, 40, 100, 0.6);
+--estagiarios-dg-rgba7: rgba(189, 40, 100, 0.7);
+--estagiarios-dg-rgba8: rgba(189, 40, 100, 0.8);
+--estagiarios-dg-rgba9: rgba(189, 40, 100, 0.9);
+
+--legados-dg-rgba1: rgba(31, 58, 195, 0.1);
+--legados-dg-rgba2: rgba(31, 58, 195, 0.2);
+--legados-dg-rgba3: rgba(31, 58, 195, 0.3);
+--legados-dg-rgba4: rgba(31, 58, 195, 0.4);
+--legados-dg-rgba5: rgba(31, 58, 195, 0.5);
+--legados-dg-rgba6: rgba(31, 58, 195, 0.6);
+--legados-dg-rgba7: rgba(31, 58, 195, 0.7);
+--legados-dg-rgba8: rgba(31, 58, 195, 0.8);
+--legados-dg-rgba9: rgba(31, 58, 195, 0.9);
+
+--indefinidos-dg-rgba1: rgba(110, 110, 110, 0.1);
+--indefinidos-dg-rgba2: rgba(110, 110, 110, 0.2);
+--indefinidos-dg-rgba3: rgba(110, 110, 110, 0.3);
+--indefinidos-dg-rgba4: rgba(110, 110, 110, 0.4);
+--indefinidos-dg-rgba5: rgba(110, 110, 110, 0.5);
+--indefinidos-dg-rgba6: rgba(110, 110, 110, 0.6);
+--indefinidos-dg-rgba7: rgba(110, 110, 110, 0.7);
+--indefinidos-dg-rgba8: rgba(110, 110, 110, 0.8);
+--indefinidos-dg-rgba9: rgba(110, 110, 110, 0.9);
+
+--afrodite-dg-rgba1: rgba(250, 105, 197, 0.1);
+--afrodite-dg-rgba2: rgba(250, 105, 197, 0.2);
+--afrodite-dg-rgba3: rgba(250, 105, 197, 0.3);
+--afrodite-dg-rgba4: rgba(250, 105, 197, 0.4);
+--afrodite-dg-rgba5: rgba(250, 105, 197, 0.5);
+--afrodite-dg-rgba6: rgba(250, 105, 197, 0.6);
+--afrodite-dg-rgba7: rgba(250, 105, 197, 0.7);
+--afrodite-dg-rgba8: rgba(250, 105, 197, 0.8);
+--afrodite-dg-rgba9: rgba(250, 105, 197, 0.9);
+
+--apolo-dg-rgba1: rgba(232, 210, 67, 0.1);
+--apolo-dg-rgba2: rgba(232, 210, 67, 0.2);
+--apolo-dg-rgba3: rgba(232, 210, 67, 0.3);
+--apolo-dg-rgba4: rgba(232, 210, 67, 0.4);
+--apolo-dg-rgba5: rgba(232, 210, 67, 0.5);
+--apolo-dg-rgba6: rgba(232, 210, 67, 0.6);
+--apolo-dg-rgba7: rgba(232, 210, 67, 0.7);
+--apolo-dg-rgba8: rgba(232, 210, 67, 0.8);
+--apolo-dg-rgba9: rgba(232, 210, 67, 0.9);
+
+--ares-dg-rgba1: rgba(219, 20, 20, 0.1);
+--ares-dg-rgba2: rgba(219, 20, 20, 0.2);
+--ares-dg-rgba3: rgba(219, 20, 20, 0.3);
+--ares-dg-rgba4: rgba(219, 20, 20, 0.4);
+--ares-dg-rgba5: rgba(219, 20, 20, 0.5);
+--ares-dg-rgba6: rgba(219, 20, 20, 0.6);
+--ares-dg-rgba7: rgba(219, 20, 20, 0.7);
+--ares-dg-rgba8: rgba(219, 20, 20, 0.8);
+--ares-dg-rgba9: rgba(219, 20, 20, 0.9);
+
+--aristeu-dg-rgba1: rgba(252, 181, 58, 0.1);
+--aristeu-dg-rgba2: rgba(252, 181, 58, 0.2);
+--aristeu-dg-rgba3: rgba(252, 181, 58, 0.3);
+--aristeu-dg-rgba4: rgba(252, 181, 58, 0.4);
+--aristeu-dg-rgba5: rgba(252, 181, 58, 0.5);
+--aristeu-dg-rgba6: rgba(252, 181, 58, 0.6);
+--aristeu-dg-rgba7: rgba(252, 181, 58, 0.7);
+--aristeu-dg-rgba8: rgba(252, 181, 58, 0.8);
+--aristeu-dg-rgba9: rgba(252, 181, 58, 0.9);
+
+--astraeus-dg-rgba1: rgba(118, 68, 216, 0.1);
+--astraeus-dg-rgba2: rgba(118, 68, 216, 0.2);
+--astraeus-dg-rgba3: rgba(118, 68, 216, 0.3);
+--astraeus-dg-rgba4: rgba(118, 68, 216, 0.4);
+--astraeus-dg-rgba5: rgba(118, 68, 216, 0.5);
+--astraeus-dg-rgba6: rgba(118, 68, 216, 0.6);
+--astraeus-dg-rgba7: rgba(118, 68, 216, 0.7);
+--astraeus-dg-rgba8: rgba(118, 68, 216, 0.8);
+--astraeus-dg-rgba9: rgba(118, 68, 216, 0.9);
+
+--atena-dg-rgba1: rgba(141, 139, 85, 0.1);
+--atena-dg-rgba2: rgba(141, 139, 85, 0.2);
+--atena-dg-rgba3: rgba(141, 139, 85, 0.3);
+--atena-dg-rgba4: rgba(141, 139, 85, 0.4);
+--atena-dg-rgba5: rgba(141, 139, 85, 0.5);
+--atena-dg-rgba6: rgba(141, 139, 85, 0.6);
+--atena-dg-rgba7: rgba(141, 139, 85, 0.7);
+--atena-dg-rgba8: rgba(141, 139, 85, 0.8);
+--atena-dg-rgba9: rgba(141, 139, 85, 0.9);
+
+--belona-dg-rgba1: rgba(156, 0, 0, 0.1);
+--belona-dg-rgba2: rgba(156, 0, 0, 0.2);
+--belona-dg-rgba3: rgba(156, 0, 0, 0.3);
+--belona-dg-rgba4: rgba(156, 0, 0, 0.4);
+--belona-dg-rgba5: rgba(156, 0, 0, 0.5);
+--belona-dg-rgba6: rgba(156, 0, 0, 0.6);
+--belona-dg-rgba7: rgba(156, 0, 0, 0.7);
+--belona-dg-rgba8: rgba(156, 0, 0, 0.8);
+--belona-dg-rgba9: rgba(156, 0, 0, 0.9);
+
+--demeter-dg-rgba1: rgba(55, 187, 68, 0.1);
+--demeter-dg-rgba2: rgba(55, 187, 68, 0.2);
+--demeter-dg-rgba3: rgba(55, 187, 68, 0.3);
+--demeter-dg-rgba4: rgba(55, 187, 68, 0.4);
+--demeter-dg-rgba5: rgba(55, 187, 68, 0.5);
+--demeter-dg-rgba6: rgba(55, 187, 68, 0.6);
+--demeter-dg-rgba7: rgba(55, 187, 68, 0.7);
+--demeter-dg-rgba8: rgba(55, 187, 68, 0.8);
+--demeter-dg-rgba9: rgba(55, 187, 68, 0.9);
+
+--despina-dg-rgba1: rgba(50, 79, 102, 0.1);
+--despina-dg-rgba2: rgba(50, 79, 102, 0.2);
+--despina-dg-rgba3: rgba(50, 79, 102, 0.3);
+--despina-dg-rgba4: rgba(50, 79, 102, 0.4);
+--despina-dg-rgba5: rgba(50, 79, 102, 0.5);
+--despina-dg-rgba6: rgba(50, 79, 102, 0.6);
+--despina-dg-rgba7: rgba(50, 79, 102, 0.7);
+--despina-dg-rgba8: rgba(50, 79, 102, 0.8);
+--despina-dg-rgba9: rgba(50, 79, 102, 0.9);
+
+--dionisio-dg-rgba1: rgba(145, 9, 128, 0.1);
+--dionisio-dg-rgba2: rgba(145, 9, 128, 0.2);
+--dionisio-dg-rgba3: rgba(145, 9, 128, 0.3);
+--dionisio-dg-rgba4: rgba(145, 9, 128, 0.4);
+--dionisio-dg-rgba5: rgba(145, 9, 128, 0.5);
+--dionisio-dg-rgba6: rgba(145, 9, 128, 0.6);
+--dionisio-dg-rgba7: rgba(145, 9, 128, 0.7);
+--dionisio-dg-rgba8: rgba(145, 9, 128, 0.8);
+--dionisio-dg-rgba9: rgba(145, 9, 128, 0.9);
+
+--eris-dg-rgba1: rgba(243, 43, 220, 0.1);
+--eris-dg-rgba2: rgba(243, 43, 220, 0.2);
+--eris-dg-rgba3: rgba(243, 43, 220, 0.3);
+--eris-dg-rgba4: rgba(243, 43, 220, 0.4);
+--eris-dg-rgba5: rgba(243, 43, 220, 0.5);
+--eris-dg-rgba6: rgba(243, 43, 220, 0.6);
+--eris-dg-rgba7: rgba(243, 43, 220, 0.7);
+--eris-dg-rgba8: rgba(243, 43, 220, 0.8);
+--eris-dg-rgba9: rgba(243, 43, 220, 0.9);
+
+--eros-dg-rgba1: rgba(214, 94, 118, 0.1);
+--eros-dg-rgba2: rgba(214, 94, 118, 0.2);
+--eros-dg-rgba3: rgba(214, 94, 118, 0.3);
+--eros-dg-rgba4: rgba(214, 94, 118, 0.4);
+--eros-dg-rgba5: rgba(214, 94, 118, 0.5);
+--eros-dg-rgba6: rgba(214, 94, 118, 0.6);
+--eros-dg-rgba7: rgba(214, 94, 118, 0.7);
+--eros-dg-rgba8: rgba(214, 94, 118, 0.8);
+--eros-dg-rgba9: rgba(214, 94, 118, 0.9);
+
+--eter-dg-rgba1: rgba(31, 75, 129, 0.1);
+--eter-dg-rgba2: rgba(31, 75, 129, 0.2);
+--eter-dg-rgba3: rgba(31, 75, 129, 0.3);
+--eter-dg-rgba4: rgba(31, 75, 129, 0.4);
+--eter-dg-rgba5: rgba(31, 75, 129, 0.5);
+--eter-dg-rgba6: rgba(31, 75, 129, 0.6);
+--eter-dg-rgba7: rgba(31, 75, 129, 0.7);
+--eter-dg-rgba8: rgba(31, 75, 129, 0.8);
+--eter-dg-rgba9: rgba(31, 75, 129, 0.9);
+
+--hades-dg-rgba1: rgba(80, 66, 131, 0.1);
+--hades-dg-rgba2: rgba(80, 66, 131, 0.2);
+--hades-dg-rgba3: rgba(80, 66, 131, 0.3);
+--hades-dg-rgba4: rgba(80, 66, 131, 0.4);
+--hades-dg-rgba5: rgba(80, 66, 131, 0.5);
+--hades-dg-rgba6: rgba(80, 66, 131, 0.6);
+--hades-dg-rgba7: rgba(80, 66, 131, 0.7);
+--hades-dg-rgba8: rgba(80, 66, 131, 0.8);
+--hades-dg-rgba9: rgba(80, 66, 131, 0.9);
+
+--hecate-dg-rgba1: rgba(65, 42, 140, 0.1);
+--hecate-dg-rgba2: rgba(65, 42, 140, 0.2);
+--hecate-dg-rgba3: rgba(65, 42, 140, 0.3);
+--hecate-dg-rgba4: rgba(65, 42, 140, 0.4);
+--hecate-dg-rgba5: rgba(65, 42, 140, 0.5);
+--hecate-dg-rgba6: rgba(65, 42, 140, 0.6);
+--hecate-dg-rgba7: rgba(65, 42, 140, 0.7);
+--hecate-dg-rgba8: rgba(65, 42, 140, 0.8);
+--hecate-dg-rgba9: rgba(65, 42, 140, 0.9);
+
+--hefesto-dg-rgba1: rgba(184, 65, 14, 0.1);
+--hefesto-dg-rgba2: rgba(184, 65, 14, 0.2);
+--hefesto-dg-rgba3: rgba(184, 65, 14, 0.3);
+--hefesto-dg-rgba4: rgba(184, 65, 14, 0.4);
+--hefesto-dg-rgba5: rgba(184, 65, 14, 0.5);
+--hefesto-dg-rgba6: rgba(184, 65, 14, 0.6);
+--hefesto-dg-rgba7: rgba(184, 65, 14, 0.7);
+--hefesto-dg-rgba8: rgba(184, 65, 14, 0.8);
+--hefesto-dg-rgba9: rgba(184, 65, 14, 0.9);
+
+--helio-dg-rgba1: rgba(252, 185, 89, 0.1);
+--helio-dg-rgba2: rgba(252, 185, 89, 0.2);
+--helio-dg-rgba3: rgba(252, 185, 89, 0.3);
+--helio-dg-rgba4: rgba(252, 185, 89, 0.4);
+--helio-dg-rgba5: rgba(252, 185, 89, 0.5);
+--helio-dg-rgba6: rgba(252, 185, 89, 0.6);
+--helio-dg-rgba7: rgba(252, 185, 89, 0.7);
+--helio-dg-rgba8: rgba(252, 185, 89, 0.8);
+--helio-dg-rgba9: rgba(252, 185, 89, 0.9);
+
+--heracles-dg-rgba1: rgba(213, 122, 52, 0.1);
+--heracles-dg-rgba2: rgba(213, 122, 52, 0.2);
+--heracles-dg-rgba3: rgba(213, 122, 52, 0.3);
+--heracles-dg-rgba4: rgba(213, 122, 52, 0.4);
+--heracles-dg-rgba5: rgba(213, 122, 52, 0.5);
+--heracles-dg-rgba6: rgba(213, 122, 52, 0.6);
+--heracles-dg-rgba7: rgba(213, 122, 52, 0.7);
+--heracles-dg-rgba8: rgba(213, 122, 52, 0.8);
+--heracles-dg-rgba9: rgba(213, 122, 52, 0.9);
+
+--hermes-dg-rgba1: rgba(131, 168, 146, 0.1);
+--hermes-dg-rgba2: rgba(131, 168, 146, 0.2);
+--hermes-dg-rgba3: rgba(131, 168, 146, 0.3);
+--hermes-dg-rgba4: rgba(131, 168, 146, 0.4);
+--hermes-dg-rgba5: rgba(131, 168, 146, 0.5);
+--hermes-dg-rgba6: rgba(131, 168, 146, 0.6);
+--hermes-dg-rgba7: rgba(131, 168, 146, 0.7);
+--hermes-dg-rgba8: rgba(131, 168, 146, 0.8);
+--hermes-dg-rgba9: rgba(131, 168, 146, 0.9);
+
+--hipnos-dg-rgba1: rgba(143, 84, 138, 0.1);
+--hipnos-dg-rgba2: rgba(143, 84, 138, 0.2);
+--hipnos-dg-rgba3: rgba(143, 84, 138, 0.3);
+--hipnos-dg-rgba4: rgba(143, 84, 138, 0.4);
+--hipnos-dg-rgba5: rgba(143, 84, 138, 0.5);
+--hipnos-dg-rgba6: rgba(143, 84, 138, 0.6);
+--hipnos-dg-rgba7: rgba(143, 84, 138, 0.7);
+--hipnos-dg-rgba8: rgba(143, 84, 138, 0.8);
+--hipnos-dg-rgba9: rgba(143, 84, 138, 0.9);
+
+--jano-dg-rgba1: rgba(219, 52, 26, 0.1);
+--jano-dg-rgba2: rgba(219, 52, 26, 0.2);
+--jano-dg-rgba3: rgba(219, 52, 26, 0.3);
+--jano-dg-rgba4: rgba(219, 52, 26, 0.4);
+--jano-dg-rgba5: rgba(219, 52, 26, 0.5);
+--jano-dg-rgba6: rgba(219, 52, 26, 0.6);
+--jano-dg-rgba7: rgba(219, 52, 26, 0.7);
+--jano-dg-rgba8: rgba(219, 52, 26, 0.8);
+--jano-dg-rgba9: rgba(219, 52, 26, 0.9);
+
+--kairos-dg-rgba1: rgba(19, 118, 41, 0.1);
+--kairos-dg-rgba2: rgba(19, 118, 41, 0.2);
+--kairos-dg-rgba3: rgba(19, 118, 41, 0.3);
+--kairos-dg-rgba4: rgba(19, 118, 41, 0.4);
+--kairos-dg-rgba5: rgba(19, 118, 41, 0.5);
+--kairos-dg-rgba6: rgba(19, 118, 41, 0.6);
+--kairos-dg-rgba7: rgba(19, 118, 41, 0.7);
+--kairos-dg-rgba8: rgba(19, 118, 41, 0.8);
+--kairos-dg-rgba9: rgba(19, 118, 41, 0.9);
+
+--melinoe-dg-rgba1: rgba(162, 101, 255, 0.1);
+--melinoe-dg-rgba2: rgba(162, 101, 255, 0.2);
+--melinoe-dg-rgba3: rgba(162, 101, 255, 0.3);
+--melinoe-dg-rgba4: rgba(162, 101, 255, 0.4);
+--melinoe-dg-rgba5: rgba(162, 101, 255, 0.5);
+--melinoe-dg-rgba6: rgba(162, 101, 255, 0.6);
+--melinoe-dg-rgba7: rgba(162, 101, 255, 0.7);
+--melinoe-dg-rgba8: rgba(162, 101, 255, 0.8);
+--melinoe-dg-rgba9: rgba(162, 101, 255, 0.9);
+
+--nemesis-dg-rgba1: rgba(135, 32, 32, 0.1);
+--nemesis-dg-rgba2: rgba(135, 32, 32, 0.2);
+--nemesis-dg-rgba3: rgba(135, 32, 32, 0.3);
+--nemesis-dg-rgba4: rgba(135, 32, 32, 0.4);
+--nemesis-dg-rgba5: rgba(135, 32, 32, 0.5);
+--nemesis-dg-rgba6: rgba(135, 32, 32, 0.6);
+--nemesis-dg-rgba7: rgba(135, 32, 32, 0.7);
+--nemesis-dg-rgba8: rgba(135, 32, 32, 0.8);
+--nemesis-dg-rgba9: rgba(135, 32, 32, 0.9);
+
+--nice-dg-rgba1: rgba(197, 159, 36, 0.1);
+--nice-dg-rgba2: rgba(197, 159, 36, 0.2);
+--nice-dg-rgba3: rgba(197, 159, 36, 0.3);
+--nice-dg-rgba4: rgba(197, 159, 36, 0.4);
+--nice-dg-rgba5: rgba(197, 159, 36, 0.5);
+--nice-dg-rgba6: rgba(197, 159, 36, 0.6);
+--nice-dg-rgba7: rgba(197, 159, 36, 0.7);
+--nice-dg-rgba8: rgba(197, 159, 36, 0.8);
+--nice-dg-rgba9: rgba(197, 159, 36, 0.9);
+
+--pandora-dg-rgba1: rgba(137, 0, 61, 0.1);
+--pandora-dg-rgba2: rgba(137, 0, 61, 0.2);
+--pandora-dg-rgba3: rgba(137, 0, 61, 0.3);
+--pandora-dg-rgba4: rgba(137, 0, 61, 0.4);
+--pandora-dg-rgba5: rgba(137, 0, 61, 0.5);
+--pandora-dg-rgba6: rgba(137, 0, 61, 0.6);
+--pandora-dg-rgba7: rgba(137, 0, 61, 0.7);
+--pandora-dg-rgba8: rgba(137, 0, 61, 0.8);
+--pandora-dg-rgba9: rgba(137, 0, 61, 0.9);
+
+--persefone-dg-rgba1: rgba(217, 25, 57, 0.1);
+--persefone-dg-rgba2: rgba(217, 25, 57, 0.2);
+--persefone-dg-rgba3: rgba(217, 25, 57, 0.3);
+--persefone-dg-rgba4: rgba(217, 25, 57, 0.4);
+--persefone-dg-rgba5: rgba(217, 25, 57, 0.5);
+--persefone-dg-rgba6: rgba(217, 25, 57, 0.6);
+--persefone-dg-rgba7: rgba(217, 25, 57, 0.7);
+--persefone-dg-rgba8: rgba(217, 25, 57, 0.8);
+--persefone-dg-rgba9: rgba(217, 25, 57, 0.9);
+
+--poseidon-dg-rgba1: rgba(1, 107, 100, 0.1);
+--poseidon-dg-rgba2: rgba(1, 107, 100, 0.2);
+--poseidon-dg-rgba3: rgba(1, 107, 100, 0.3);
+--poseidon-dg-rgba4: rgba(1, 107, 100, 0.4);
+--poseidon-dg-rgba5: rgba(1, 107, 100, 0.5);
+--poseidon-dg-rgba6: rgba(1, 107, 100, 0.6);
+--poseidon-dg-rgba7: rgba(1, 107, 100, 0.7);
+--poseidon-dg-rgba8: rgba(1, 107, 100, 0.8);
+--poseidon-dg-rgba9: rgba(1, 107, 100, 0.9);
+
+--psique-dg-rgba1: rgba(80, 154, 173, 0.1);
+--psique-dg-rgba2: rgba(80, 154, 173, 0.2);
+--psique-dg-rgba3: rgba(80, 154, 173, 0.3);
+--psique-dg-rgba4: rgba(80, 154, 173, 0.4);
+--psique-dg-rgba5: rgba(80, 154, 173, 0.5);
+--psique-dg-rgba6: rgba(80, 154, 173, 0.6);
+--psique-dg-rgba7: rgba(80, 154, 173, 0.7);
+--psique-dg-rgba8: rgba(80, 154, 173, 0.8);
+--psique-dg-rgba9: rgba(80, 154, 173, 0.9);
+
+--tanatos-dg-rgba1: rgba(102, 65, 65, 0.1);
+--tanatos-dg-rgba2: rgba(102, 65, 65, 0.2);
+--tanatos-dg-rgba3: rgba(102, 65, 65, 0.3);
+--tanatos-dg-rgba4: rgba(102, 65, 65, 0.4);
+--tanatos-dg-rgba5: rgba(102, 65, 65, 0.5);
+--tanatos-dg-rgba6: rgba(102, 65, 65, 0.6);
+--tanatos-dg-rgba7: rgba(102, 65, 65, 0.7);
+--tanatos-dg-rgba8: rgba(102, 65, 65, 0.8);
+--tanatos-dg-rgba9: rgba(102, 65, 65, 0.9);
+
+--zeus-dg-rgba1: rgba(0, 174, 255, 0.1);
+--zeus-dg-rgba2: rgba(0, 174, 255, 0.2);
+--zeus-dg-rgba3: rgba(0, 174, 255, 0.3);
+--zeus-dg-rgba4: rgba(0, 174, 255, 0.4);
+--zeus-dg-rgba5: rgba(0, 174, 255, 0.5);
+--zeus-dg-rgba6: rgba(0, 174, 255, 0.6);
+--zeus-dg-rgba7: rgba(0, 174, 255, 0.7);
+--zeus-dg-rgba8: rgba(0, 174, 255, 0.8);
+--zeus-dg-rgba9: rgba(0, 174, 255, 0.9);
+
+--mortos-dg-rgba1: rgba(94, 77, 56, 0.1);
+--mortos-dg-rgba2: rgba(94, 77, 56, 0.2);
+--mortos-dg-rgba3: rgba(94, 77, 56, 0.3);
+--mortos-dg-rgba4: rgba(94, 77, 56, 0.4);
+--mortos-dg-rgba5: rgba(94, 77, 56, 0.5);
+--mortos-dg-rgba6: rgba(94, 77, 56, 0.6);
+--mortos-dg-rgba7: rgba(94, 77, 56, 0.7);
+--mortos-dg-rgba8: rgba(94, 77, 56, 0.8);
+--mortos-dg-rgba9: rgba(94, 77, 56, 0.9);
+
+--iris-dg-rgba1: rgba(245, 164, 164, 0.1);
+--iris-dg-rgba2: rgba(245, 164, 164, 0.2);
+--iris-dg-rgba3: rgba(245, 164, 164, 0.3);
+--iris-dg-rgba4: rgba(245, 164, 164, 0.4);
+--iris-dg-rgba5: rgba(245, 164, 164, 0.5);
+--iris-dg-rgba6: rgba(245, 164, 164, 0.6);
+--iris-dg-rgba7: rgba(245, 164, 164, 0.7);
+--iris-dg-rgba8: rgba(245, 164, 164, 0.8);
+--iris-dg-rgba9: rgba(245, 164, 164, 0.9);
+
+--artemis-dg-rgba1: rgba(142, 164, 181, 0.1);
+--artemis-dg-rgba2: rgba(142, 164, 181, 0.2);
+--artemis-dg-rgba3: rgba(142, 164, 181, 0.3);
+--artemis-dg-rgba4: rgba(142, 164, 181, 0.4);
+--artemis-dg-rgba5: rgba(142, 164, 181, 0.5);
+--artemis-dg-rgba6: rgba(142, 164, 181, 0.6);
+--artemis-dg-rgba7: rgba(142, 164, 181, 0.7);
+--artemis-dg-rgba8: rgba(142, 164, 181, 0.8);
+--artemis-dg-rgba9: rgba(142, 164, 181, 0.9);
+
+--orfeu-dg-rgba1: rgba(69, 134, 215, 0.1);
+--orfeu-dg-rgba2: rgba(69, 134, 215, 0.2);
+--orfeu-dg-rgba3: rgba(69, 134, 215, 0.3);
+--orfeu-dg-rgba4: rgba(69, 134, 215, 0.4);
+--orfeu-dg-rgba5: rgba(69, 134, 215, 0.5);
+--orfeu-dg-rgba6: rgba(69, 134, 215, 0.6);
+--orfeu-dg-rgba7: rgba(69, 134, 215, 0.7);
+--orfeu-dg-rgba8: rgba(69, 134, 215, 0.8);
+--orfeu-dg-rgba9: rgba(69, 134, 215, 0.9);
+
+--selene-dg-rgba1: rgba(141, 141, 165, 0.1);
+--selene-dg-rgba2: rgba(141, 141, 165, 0.2);
+--selene-dg-rgba3: rgba(141, 141, 165, 0.3);
+--selene-dg-rgba4: rgba(141, 141, 165, 0.4);
+--selene-dg-rgba5: rgba(141, 141, 165, 0.5);
+--selene-dg-rgba6: rgba(141, 141, 165, 0.6);
+--selene-dg-rgba7: rgba(141, 141, 165, 0.7);
+--selene-dg-rgba8: rgba(141, 141, 165, 0.8);
+--selene-dg-rgba9: rgba(141, 141, 165, 0.9);
+
+--harmonia-dg-rgba1: rgba(209, 141, 24, 0.1);
+--harmonia-dg-rgba2: rgba(209, 141, 24, 0.2);
+--harmonia-dg-rgba3: rgba(209, 141, 24, 0.3);
+--harmonia-dg-rgba4: rgba(209, 141, 24, 0.4);
+--harmonia-dg-rgba5: rgba(209, 141, 24, 0.5);
+--harmonia-dg-rgba6: rgba(209, 141, 24, 0.6);
+--harmonia-dg-rgba7: rgba(209, 141, 24, 0.7);
+--harmonia-dg-rgba8: rgba(209, 141, 24, 0.8);
+--harmonia-dg-rgba9: rgba(209, 141, 24, 0.9);
+}
 
 
 #biotico {
@@ -522,4 +1019,148 @@ pn {
  vp {
     color: var(--vampiro);
     }
+
+
+.deuses {
+  --cor-grupo-dg-rgba1: rgba(184, 169, 68, 0.1);
+  --cor-grupo-dg-rgba2: rgba(184, 169, 68, 0.2);
+  --cor-grupo-dg-rgba3: rgba(184, 169, 68, 0.3);
+  --cor-grupo-dg-rgba4: rgba(184, 169, 68, 0.4);
+  --cor-grupo-dg-rgba5: rgba(184, 169, 68, 0.5);
+  --cor-grupo-dg-rgba6: rgba(184, 169, 68, 0.6);
+  --cor-grupo-dg-rgba7: rgba(184, 169, 68, 0.7);
+  --cor-grupo-dg-rgba8: rgba(184, 169, 68, 0.8);
+  --cor-grupo-dg-rgba9: rgba(184, 169, 68, 0.9);
+}
+
+.estagiarios {
+  --cor-grupo-dg-rgba1: rgba(189, 40, 100, 0.1);
+  --cor-grupo-dg-rgba2: rgba(189, 40, 100, 0.2);
+  --cor-grupo-dg-rgba3: rgba(189, 40, 100, 0.3);
+  --cor-grupo-dg-rgba4: rgba(189, 40, 100, 0.4);
+  --cor-grupo-dg-rgba5: rgba(189, 40, 100, 0.5);
+  --cor-grupo-dg-rgba6: rgba(189, 40, 100, 0.6);
+  --cor-grupo-dg-rgba7: rgba(189, 40, 100, 0.7);
+  --cor-grupo-dg-rgba8: rgba(189, 40, 100, 0.8);
+  --cor-grupo-dg-rgba9: rgba(189, 40, 100, 0.9);
+}
+
+.legados {
+  --cor-grupo-dg-rgba1: rgba(31, 58, 195, 0.1);
+  --cor-grupo-dg-rgba2: rgba(31, 58, 195, 0.2);
+  --cor-grupo-dg-rgba3: rgba(31, 58, 195, 0.3);
+  --cor-grupo-dg-rgba4: rgba(31, 58, 195, 0.4);
+  --cor-grupo-dg-rgba5: rgba(31, 58, 195, 0.5);
+  --cor-grupo-dg-rgba6: rgba(31, 58, 195, 0.6);
+  --cor-grupo-dg-rgba7: rgba(31, 58, 195, 0.7);
+  --cor-grupo-dg-rgba8: rgba(31, 58, 195, 0.8);
+  --cor-grupo-dg-rgba9: rgba(31, 58, 195, 0.9);
+}
+
+.indefinidos {
+  --cor-grupo-dg-rgba1: rgba(110, 110, 110, 0.1);
+  --cor-grupo-dg-rgba2: rgba(110, 110, 110, 0.2);
+  --cor-grupo-dg-rgba3: rgba(110, 110, 110, 0.3);
+  --cor-grupo-dg-rgba4: rgba(110, 110, 110, 0.4);
+  --cor-grupo-dg-rgba5: rgba(110, 110, 110, 0.5);
+  --cor-grupo-dg-rgba6: rgba(110, 110, 110, 0.6);
+  --cor-grupo-dg-rgba7: rgba(110, 110, 110, 0.7);
+  --cor-grupo-dg-rgba8: rgba(110, 110, 110, 0.8);
+  --cor-grupo-dg-rgba9: rgba(110, 110, 110, 0.9);
+}
+
+.afrodite {
+  --cor-grupo: var(--afrodite);
+  --cor-grupo-dg-rgba1: rgba(250, 105, 197, 0.1);
+  --cor-grupo-dg-rgba2: rgba(250, 105, 197, 0.2);
+  --cor-grupo-dg-rgba3: rgba(250, 105, 197, 0.3);
+  --cor-grupo-dg-rgba4: rgba(250, 105, 197, 0.4);
+  --cor-grupo-dg-rgba5: rgba(250, 105, 197, 0.5);
+  --cor-grupo-dg-rgba6: rgba(250, 105, 197, 0.6);
+  --cor-grupo-dg-rgba7: rgba(250, 105, 197, 0.7);
+  --cor-grupo-dg-rgba8: rgba(250, 105, 197, 0.8);
+  --cor-grupo-dg-rgba9: rgba(250, 105, 197, 0.9);
+}
+
+.apolo {
+  --cor-grupo: var(--apolo);
+  --cor-grupo-dg-rgba1: rgba(232, 210, 67, 0.1);
+  --cor-grupo-dg-rgba2: rgba(232, 210, 67, 0.2);
+  --cor-grupo-dg-rgba3: rgba(232, 210, 67, 0.3);
+  --cor-grupo-dg-rgba4: rgba(232, 210, 67, 0.4);
+  --cor-grupo-dg-rgba5: rgba(232, 210, 67, 0.5);
+  --cor-grupo-dg-rgba6: rgba(232, 210, 67, 0.6);
+  --cor-grupo-dg-rgba7: rgba(232, 210, 67, 0.7);
+  --cor-grupo-dg-rgba8: rgba(232, 210, 67, 0.8);
+  --cor-grupo-dg-rgba9: rgba(232, 210, 67, 0.9);
+}
+
+.ares {
+  --cor-grupo: var(--ares);
+  --cor-grupo-dg-rgba1: rgba(219, 20, 20, 0.1);
+  --cor-grupo-dg-rgba2: rgba(219, 20, 20, 0.2);
+  --cor-grupo-dg-rgba3: rgba(219, 20, 20, 0.3);
+  --cor-grupo-dg-rgba4: rgba(219, 20, 20, 0.4);
+  --cor-grupo-dg-rgba5: rgba(219, 20, 20, 0.5);
+  --cor-grupo-dg-rgba6: rgba(219, 20, 20, 0.6);
+  --cor-grupo-dg-rgba7: rgba(219, 20, 20, 0.7);
+  --cor-grupo-dg-rgba8: rgba(219, 20, 20, 0.8);
+  --cor-grupo-dg-rgba9: rgba(219, 20, 20, 0.9);
+}
+
+.aristeu {
+  --cor-grupo: var(--aristeu);  
+  --cor-grupo-dg-rgba1: rgba(252, 181, 58, 0.1);
+  --cor-grupo-dg-rgba2: rgba(252, 181, 58, 0.2);
+  --cor-grupo-dg-rgba3: rgba(252, 181, 58, 0.3);
+  --cor-grupo-dg-rgba4: rgba(252, 181, 58, 0.4);
+  --cor-grupo-dg-rgba5: rgba(252, 181, 58, 0.5);
+  --cor-grupo-dg-rgba6: rgba(252, 181, 58, 0.6);
+  --cor-grupo-dg-rgba7: rgba(252, 181, 58, 0.7);
+  --cor-grupo-dg-rgba8: rgba(252, 181, 58, 0.8);
+  --cor-grupo-dg-rgba9: rgba(252, 181, 58, 0.9);
+}
+
+.astraeus {
+  --cor-grupo: var(--astraeus);
+  --cor-grupo-dg-rgba1: rgba(118, 68, 216, 0.1);
+  --cor-grupo-dg-rgba2: rgba(118, 68, 216, 0.2);
+  --cor-grupo-dg-rgba3: rgba(118, 68, 216, 0.3);
+  --cor-grupo-dg-rgba4: rgba(118, 68, 216, 0.4);
+  --cor-grupo-dg-rgba5: rgba(118, 68, 216, 0.5);
+  --cor-grupo-dg-rgba6: rgba(118, 68, 216, 0.6);
+  --cor-grupo-dg-rgba7: rgba(118, 68, 216, 0.7);
+  --cor-grupo-dg-rgba8: rgba(118, 68, 216, 0.8);
+  --cor-grupo-dg-rgba9: rgba(118, 68, 216, 0.9);
+}
+
+.atena { 
+--cor-grupo: var(--atena);
+--cor-grupo-rgba: rgba(141, 139, 85, 0.6);
+--cor-grupo-rgba1: rgba(141, 139, 85, 0.1);
+--cor-grupo-rgba2: rgba(141, 139, 85, 0.2);
+--cor-grupo-rgba3: rgba(141, 139, 85, 0.3);
+--cor-grupo-rgba4: rgba(141, 139, 85, 0.4);
+--cor-grupo-rgba5: rgba(141, 139, 85, 0.5);
+--cor-grupo-rgba6: rgba(141, 139, 85, 0.6);
+--cor-grupo-rgba7: rgba(141, 139, 85, 0.7);
+--cor-grupo-rgba8: rgba(141, 139, 85, 0.8);
+--cor-grupo-rgba9: rgba(141, 139, 85, 0.9);
+
+ }
+
+.selene { 
+--cor-grupo: var(--selene);
+--cor-grupo-rgba: rgba(141, 141, 165, 0.6); 
+--cor-grupo-rgba1: rgba(141, 141, 165, 0.1);
+--cor-grupo-rgba2: rgba(141, 141, 165, 0.2);
+--cor-grupo-rgba3: rgba(141, 141, 165, 0.3);
+--cor-grupo-rgba4: rgba(141, 141, 165, 0.4);
+--cor-grupo-rgba5: rgba(141, 141, 165, 0.5);
+--cor-grupo-rgba6: rgba(141, 141, 165, 0.6);
+--cor-grupo-rgba7: rgba(141, 141, 165, 0.7);
+--cor-grupo-rgba8: rgba(141, 141, 165, 0.8);
+--cor-grupo-rgba9: rgba(141, 141, 165, 0.9);
+
+}
 
