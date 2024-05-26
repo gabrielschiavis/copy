@@ -1021,7 +1021,8 @@ pn {
     }
 
 
-.deuses {
+#deuses {
+  --cor-grupo: var(--deuses);
   --cor-grupo-dg-rgba1: rgba(184, 169, 68, 0.1);
   --cor-grupo-dg-rgba2: rgba(184, 169, 68, 0.2);
   --cor-grupo-dg-rgba3: rgba(184, 169, 68, 0.3);
@@ -1033,7 +1034,7 @@ pn {
   --cor-grupo-dg-rgba9: rgba(184, 169, 68, 0.9);
 }
 
-.estagiarios {
+#estagiarios {
   --cor-grupo-dg-rgba1: rgba(189, 40, 100, 0.1);
   --cor-grupo-dg-rgba2: rgba(189, 40, 100, 0.2);
   --cor-grupo-dg-rgba3: rgba(189, 40, 100, 0.3);
@@ -1045,7 +1046,7 @@ pn {
   --cor-grupo-dg-rgba9: rgba(189, 40, 100, 0.9);
 }
 
-.legados {
+#legados {
   --cor-grupo-dg-rgba1: rgba(31, 58, 195, 0.1);
   --cor-grupo-dg-rgba2: rgba(31, 58, 195, 0.2);
   --cor-grupo-dg-rgba3: rgba(31, 58, 195, 0.3);
@@ -1057,7 +1058,7 @@ pn {
   --cor-grupo-dg-rgba9: rgba(31, 58, 195, 0.9);
 }
 
-.indefinidos {
+#indefinidos {
   --cor-grupo-dg-rgba1: rgba(110, 110, 110, 0.1);
   --cor-grupo-dg-rgba2: rgba(110, 110, 110, 0.2);
   --cor-grupo-dg-rgba3: rgba(110, 110, 110, 0.3);
@@ -1069,7 +1070,7 @@ pn {
   --cor-grupo-dg-rgba9: rgba(110, 110, 110, 0.9);
 }
 
-.afrodite {
+#afrodite {
   --cor-grupo: var(--afrodite);
   --cor-grupo-dg-rgba1: rgba(250, 105, 197, 0.1);
   --cor-grupo-dg-rgba2: rgba(250, 105, 197, 0.2);
@@ -1082,7 +1083,7 @@ pn {
   --cor-grupo-dg-rgba9: rgba(250, 105, 197, 0.9);
 }
 
-.apolo {
+#apolo {
   --cor-grupo: var(--apolo);
   --cor-grupo-dg-rgba1: rgba(232, 210, 67, 0.1);
   --cor-grupo-dg-rgba2: rgba(232, 210, 67, 0.2);
@@ -1095,7 +1096,7 @@ pn {
   --cor-grupo-dg-rgba9: rgba(232, 210, 67, 0.9);
 }
 
-.ares {
+#ares {
   --cor-grupo: var(--ares);
   --cor-grupo-dg-rgba1: rgba(219, 20, 20, 0.1);
   --cor-grupo-dg-rgba2: rgba(219, 20, 20, 0.2);
@@ -1108,7 +1109,7 @@ pn {
   --cor-grupo-dg-rgba9: rgba(219, 20, 20, 0.9);
 }
 
-.aristeu {
+#aristeu {
   --cor-grupo: var(--aristeu);  
   --cor-grupo-dg-rgba1: rgba(252, 181, 58, 0.1);
   --cor-grupo-dg-rgba2: rgba(252, 181, 58, 0.2);
@@ -1121,7 +1122,7 @@ pn {
   --cor-grupo-dg-rgba9: rgba(252, 181, 58, 0.9);
 }
 
-.astraeus {
+#astraeus {
   --cor-grupo: var(--astraeus);
   --cor-grupo-dg-rgba1: rgba(118, 68, 216, 0.1);
   --cor-grupo-dg-rgba2: rgba(118, 68, 216, 0.2);
@@ -1134,7 +1135,7 @@ pn {
   --cor-grupo-dg-rgba9: rgba(118, 68, 216, 0.9);
 }
 
-.atena { 
+#atena { 
 --cor-grupo: var(--atena);
 --cor-grupo-rgba: rgba(141, 139, 85, 0.6);
 --cor-grupo-rgba1: rgba(141, 139, 85, 0.1);
@@ -1149,7 +1150,7 @@ pn {
 
  }
 
-.selene { 
+#selene { 
 --cor-grupo: var(--selene);
 --cor-grupo-rgba: rgba(141, 141, 165, 0.6); 
 --cor-grupo-rgba1: rgba(141, 141, 165, 0.1);
