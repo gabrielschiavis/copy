@@ -1180,3 +1180,17 @@ pn {
 
 }
 
+#kairos {
+--cor-grupo: var(--kairos-dg);
+--cor-grupo-rgba: rgba(19, 118, 41, 0.6); 
+--cor-grupo-rgba1: rgba(19, 118, 41, 0.1);
+--cor-grupo-rgba2: rgba(19, 118, 41, 0.2);
+--cor-grupo-rgba3: rgba(19, 118, 41, 0.3);
+--cor-grupo-rgba4: rgba(19, 118, 41, 0.4);
+--cor-grupo-rgba5: rgba(19, 118, 41, 0.5);
+--cor-grupo-rgba6: rgba(19, 118, 41, 0.6);
+--cor-grupo-rgba7: rgba(19, 118, 41, 0.7);
+--cor-grupo-rgba8: rgba(19, 118, 41, 0.8);
+--cor-grupo-rgba9: rgba(19, 118, 41, 0.9);
+
+}
