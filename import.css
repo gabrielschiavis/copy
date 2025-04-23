@@ -1166,6 +1166,7 @@ pn {
 }
 
 #nice {
+--cor-grupo: var(--nice-dg);
 --cor-grupo-rgba1: rgba(197, 159, 36, 0.1);
 --cor-grupo-rgba2: rgba(197, 159, 36, 0.2);
 --cor-grupo-rgba3: rgba(197, 159, 36, 0.3);
